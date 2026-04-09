@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redesain Website Pondok Pesantren Darussalam Tasikmalaya
 
 Proyek ini adalah hasil redesain sistem informasi berbasis web untuk Pondok Pesantren Darussalam Rajapolah Tasikmalaya. Fokus utama adalah modernisasi antarmuka (UI) dan peningkatan pengalaman pengguna (UX).
@@ -15,3 +16,6 @@ Proyek ini adalah hasil redesain sistem informasi berbasis web untuk Pondok Pesa
 ## Cara Menjalankan
 1. Clone repository ini.
 2. Buka file `index.html` menggunakan browser pilihan Anda.
+=======
+# web-darussalam
+>>>>>>> b3d9bc9601a47555eb01695a7e6baeb76c0beb3a
